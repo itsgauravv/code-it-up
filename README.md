@@ -4,6 +4,14 @@
 
 Welcome to Code-It-Up, the online HTML, CSS, and JS Compiler! This web-based application provides a convenient platform for users to write, compile, and preview HTML, CSS, and JavaScript code in real-time. Whether you're a beginner learning web development or a seasoned developer testing snippets, this compiler simplifies the process by offering a seamless coding experience with instant feedback.
 
+#### New Update !
+
+We are excited to share that the live version of this project is now available. You can explore the fully functional website and see the code in action by clicking the link below:
+
+[CodeItUp](https://itsgauravv.github.io/code-it-up/)
+
+Feel free to browse the code, open issues, and contribute to the project. We hope you find it useful and enjoy using it as much as we enjoyed building it!
+
 ## Features
 
 ### 1. Live Code Compilation

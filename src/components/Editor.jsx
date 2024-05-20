@@ -63,7 +63,7 @@ const Editor = ({ heading, icon, color, value, onChange }) => {
         </Heading>
         <CloseFullscreenIcon
           fontSize="small"
-          style={{ alignSelf: "center" }}
+          style={{ alignSelf: "center", cursor: "pointer" }}
           onClick={() => setOpen((prevState) => !prevState)}
         />
       </Header>

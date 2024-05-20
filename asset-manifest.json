@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/code-it-up/static/css/main.5b2bfb19.css",
+    "main.js": "/code-it-up/static/js/main.2584c0b1.js",
+    "static/js/453.4d263d9b.chunk.js": "/code-it-up/static/js/453.4d263d9b.chunk.js",
+    "static/media/logo.png": "/code-it-up/static/media/logo.1030ca20692d0e7c591c.png",
+    "index.html": "/code-it-up/index.html",
+    "main.5b2bfb19.css.map": "/code-it-up/static/css/main.5b2bfb19.css.map",
+    "main.2584c0b1.js.map": "/code-it-up/static/js/main.2584c0b1.js.map",
+    "453.4d263d9b.chunk.js.map": "/code-it-up/static/js/453.4d263d9b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5b2bfb19.css",
+    "static/js/main.2584c0b1.js"
+  ]
+}
